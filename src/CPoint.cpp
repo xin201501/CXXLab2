@@ -1,4 +1,3 @@
-#pragma once
 #include "../../C++Lab3 20201213/include/CPoint.h"
 #include <iostream>
 CPoint::CPoint(int px, int py) : x(px), y(py) {
